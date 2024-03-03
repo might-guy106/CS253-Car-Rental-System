@@ -1,14 +1,22 @@
 <!-- ABOUT THE PROJECT -->
+# Table of Contents
+
+1. [Installation](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#asumptions)
+2. [Usage](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#about-the-project)
+3. [Passwords to Run](#Passwords)
+4. [File Structure](#file-structure)
+5. [Functionality](#functionality)
+6. [DemoPhoto](#SomeInsights)
+
 ## About The Project
+
+car rental system in C++ language using Object-Oriented Programming concepts.
 
 ### Abbreviations
 
 * [MF] : member function
 * [HF} : helping function  ( which are defined `common_functons.cpp` ) 
 
-
-
-car rental system in C++ language using Object-Oriented Programming concepts.
 
 ### Built With
 
