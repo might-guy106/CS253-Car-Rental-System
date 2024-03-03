@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # Table of Contents
 
-1. [Installation](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#asumptions)
+1. [Installation]https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#asumptions)
 2. [Usage](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#about-the-project)
 3. [Passwords to Run](#Passwords)
 4. [File Structure](#file-structure)
