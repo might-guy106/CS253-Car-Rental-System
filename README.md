@@ -1,16 +1,17 @@
 <!-- ABOUT THE PROJECT -->
 # Table of Contents
 
-1. About The Project
+1. [About The Project](#section-1)
 2. Getting Started
 3. Working
 4. Customer Options
 5. Employee Options
 6. Manager Options
 7. Initial data
-8. Asumptions
+8. [Asumptions and Notes](#section-8)
 
 ## About The Project
+<a name="section-1"></a>
 
 car rental system in C++ language using Object-Oriented Programming concepts.
 
@@ -185,8 +186,8 @@ uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees.
   <img src="images/cars.png" alt="cars">
 </div>
 
-## Asumptions and notes
-
+## Asumptions and Notes
+<a name="section-8"></a>
 * `Sleep()` function is used so please be patience to enter next choice
 * each person can rent cars according to their score which lies in range 1-5
 * condition is divided in 5 inters 1:worst 2:bad 3:fine 4:good 5:excellent
