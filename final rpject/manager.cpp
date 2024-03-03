@@ -278,7 +278,7 @@ void manager::display_cars(MYSQL* conn) {
 		}
 	}
 
-	void manager::display_employee(MYSQL* conn) {
+	void manager::display_employees(MYSQL* conn) {
 
 		string colnames = "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'Employees' ORDER BY ORDINAL_POSITION";
 		if (mysql_query(conn, colnames.c_str())) {
