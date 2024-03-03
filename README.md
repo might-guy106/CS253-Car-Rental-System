@@ -24,5 +24,5 @@ car rental system in C++ language using Object-Oriented Programming concepts.
 ### Modifications
 
 * In my case first i have a created a database named: project and connected it with c++;
-* to change these settings make edits in main.cpp file according to your set-up.
+* to change these settings make edits in main.cpp file according to your set-up. <img src="images/logo.png" alt="Logo" width="80" height="80">
 * 
