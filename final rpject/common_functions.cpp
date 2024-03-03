@@ -359,8 +359,10 @@ void update_user(MYSQL* conn, string car_model, string temp_ID, int new_cond, st
 
 	cout << "\n\t\t\tcurr_due :" << curr_due << endl;
 	cout << "\t\t\tfine days :" << days1 << endl;
-	cout << "\t\t\tnormal days :" << days2 << endl;
-
+	
+	if(days1<=0) cout << "\t\t\tnormal days :" << days2 << endl;
+	else cout << "\t\t\tnormal days :" << (days2 - days1) << endl;
+	
 	if (days1 <= 0) cout << "\t\t\tnormal rent : " << (car_price * days2) << endl;
 	else  cout << "\t\t\tnormal rent : " << (car_price * (days2 - days1)) << endl;
 
