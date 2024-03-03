@@ -401,7 +401,7 @@ void manager::display_cars(MYSQL* conn) {
 			system("cls");
 
 			int val;
-			cout << "\n\t\t\t || Manager Pankaj ||\n" << endl;
+			cout << "\n\t\t\t || Manager manager_1 ||\n" << endl;
 			cout << "1.  Cars." << endl;
 			cout << "2.  Customers." << endl;
 			cout << "3.  Employee." << endl;
