@@ -1,12 +1,14 @@
 <!-- ABOUT THE PROJECT -->
 # Table of Contents
 
-1. [Installation]https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#asumptions)
-2. [Usage](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#about-the-project)
-3. [Passwords to Run](#Passwords)
-4. [File Structure](#file-structure)
-5. [Functionality](#functionality)
-6. [DemoPhoto](#SomeInsights)
+1. [About The Project](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#about-the-project)
+2. [Getting Started](https://github.com/might-guy106/CS253-Car-Rental-System/edit/master/README.md#getting-started)
+3. [Working]()
+4. [Customer Options]()
+5. [Employee Options]()
+6. [Manager Options]()
+7. [Initial data]()
+8. [Asumptions]()
 
 ## About The Project
 
