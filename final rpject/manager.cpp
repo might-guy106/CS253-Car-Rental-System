@@ -609,7 +609,7 @@ void manager::display_cars(MYSQL* conn) {
 					cin >> choice_employee;
 
 					if (choice_employee == 1) {
-						display_employee(conn);
+						display_employees(conn);
 						Sleep(5000);
 					}
 					else if (choice_employee == 2) {
