@@ -150,6 +150,8 @@ employee class member function `modify_records()` controls all the functions bel
 
 ## Initial data
 
+uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees. 
+
 1 Manager :
 * name = "manager_1"
 * id = 1
@@ -158,8 +160,21 @@ employee class member function `modify_records()` controls all the functions bel
 5 customers :
 
 <div align="center">
-  <img src="images/Screenshot 2024-03-03 200735.png" alt="Logo">
+  <img src="images/customers.png" alt="Logo">
 </div>
+
+5 employees :
+
+<div align="center">
+  <img src="images/employees.png" alt="employees">
+</div>
+
+5 customers :
+
+<div align="center">
+  <img src="images/cars.png" alt="cars">
+</div>
+
 
 
 
