@@ -177,11 +177,15 @@ uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees.
 
 ## Asumptions
 
+* each person can rent cars according to their score which lies in range 1-5
+* condition is divided in 5 inters 1:worst 2:bad 3:fine 4:good 5:excellent
+* score decrease by 1 if he returns after comitted date or if he returns in decreased condition than before.
 * id is unique for every customer, employee and car
 * car id is in range 1000-1999 , customer id is range 2000-2999 , employer id is in range 3000-3999.
 * names of users, password of users and model of cars can not have whitespace in them.
 * date is YYYY-MM-DD format
-* 
+* while renting a car if multiple cars exist with same model then car with lowest price is shown to user.
+* while returning a car if multiple cars exist with same model then car with highest price is returned.
 
 
 
