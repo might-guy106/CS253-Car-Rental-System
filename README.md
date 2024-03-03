@@ -169,11 +169,12 @@ uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees.
   <img src="images/employees.png" alt="employees">
 </div>
 
-5 customers :
+5 cars :
 
 <div align="center">
   <img src="images/cars.png" alt="cars">
 </div>
+
 
 
 
