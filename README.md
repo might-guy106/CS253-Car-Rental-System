@@ -175,7 +175,13 @@ uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees.
   <img src="images/cars.png" alt="cars">
 </div>
 
+## Asumptions
 
+* id is unique for every customer, employee and car
+* car id is in range 1000-1999 , customer id is range 2000-2999 , employer id is in range 3000-3999.
+* names of users, password of users and model of cars can not have whitespace in them.
+* date is YYYY-MM-DD format
+* 
 
 
 
