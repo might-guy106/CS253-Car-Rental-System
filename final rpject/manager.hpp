@@ -21,7 +21,7 @@ public:
 	void delete_customer(MYSQL* conn);                                                 // delete customer from customer table
 	void update_customer(MYSQL* conn,int &customer_id);
 
-	void display_employee(MYSQL* conn);                                                // Displays Employees Table
+	void display_employees(MYSQL* conn);                                                // Displays Employees Table
 	void add_employee(MYSQL* conn, string& name, int& id, string& paswd);              // add employee to Employees table
 	void delete_employee(MYSQL* conn);                                                 // delete employee from Employees table
 	void update_employee(MYSQL* conn, int& customer_id);
