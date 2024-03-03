@@ -137,19 +137,29 @@ employee class member function `modify_records()` controls all the functions bel
 ### On Employees
 
 1. display Customers table :
-   * [MF] `display_customers() `
+   * [MF] `display_employees() `
 2. Add a new customer :
-   * [MF] `add_car()`
-   * `add_car()` uses [HF] `average_customer_score()` to return average customer_record value
+   * [MF] `add_employee()`
+   * `add_employee()` uses [HF] `average_employee_score()` to return average customer_record value
 3. Delete a existing car :
    * [MF] `delete_customer()`
-   * `delete_customer()` uses [HF] `check_id()` to check whether such customer id exists or not
+   * `delete_employee()` uses [HF] `check_id()` to check whether such customer id exists or not
 4. Update a existing car :
-   * [MF] `update_customer()`
-   * `update_customer()` uses [HF] `check_id()` to check whether such customer id exists or not
+   * [MF] `update_employee()`
+   * `update_employee()` uses [HF] `check_id()` to check whether such customer id exists or not
 
+## Initial data
 
+1 Manager :
+* name = "manager_1"
+* id = 1
+* password = "man1"
 
+5 customers :
+
+<div align="center">
+  <img src="images/Screenshot 2024-03-03 200735.png" alt="Logo">
+</div>
 
 
 
