@@ -186,6 +186,7 @@ uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees.
 * date is YYYY-MM-DD format
 * while renting a car if multiple cars exist with same model then car with lowest price is shown to user.
 * while returning a car if multiple cars exist with same model then car with highest price is returned.
+* fine and due are added to customer Fine_Due after returningof the car.
 
 
 
