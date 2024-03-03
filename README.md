@@ -2,12 +2,12 @@
 # Table of Contents
 
 1. [About The Project](#section-1)
-2. Getting Started
-3. Working
-4. Customer Options
-5. Employee Options
-6. Manager Options
-7. Initial data
+2. [Getting Started](#section-2)
+3. [Working](#section-3)
+4. [Customer Options](#section-4)
+5. [Employee Options](#section-5)
+6. [Manager Options](#section-6)
+7. [Initial data](#section-7)
 8. [Asumptions and Notes](#section-8)
 
 ## About The Project
@@ -29,7 +29,7 @@ car rental system in C++ language using Object-Oriented Programming concepts.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+<a name="section-2"></a>
 ### Installation
 
 1. Install Visual Studio.
@@ -49,7 +49,7 @@ car rental system in C++ language using Object-Oriented Programming concepts.
 * by default the manager details are set as name="manager_1",id=1,password="man1"
 
 ## Working
-
+<a name="section-3"></a>
 Project contains total 5 header files and 5 cpp files
 
 ### Header files
@@ -69,7 +69,7 @@ Project contains total 5 header files and 5 cpp files
 5. `main.cpp` : this is main file of the project.
 
 ## Customer Options
-
+<a name="section-4"></a>
 customer class member function `customer_functions()` controls all the functions below which define customer functionalities
 
 1. Display available cars :
@@ -92,7 +92,7 @@ customer class member function `customer_functions()` controls all the functions
    * `clear_due_request()` uses helping function `display_due()` to  display current dues.
 
 ## Employee Options
-
+<a name="section-5"></a>
 employee class member function `employee_functions()` controls all the functions below which define employee functionalities
 
 1. Display available cars :
@@ -115,7 +115,7 @@ employee class member function `employee_functions()` controls all the functions
    * `clear_due_request()` uses helping function `display_due()` to  display current dues.
   
 ## Manager Options
-
+<a name="section-6"></a>
 employee class member function `modify_records()` controls all the functions below which define manager functionalities
 
 ### On Cars 
@@ -160,7 +160,7 @@ employee class member function `modify_records()` controls all the functions bel
    * `update_employee()` uses [HF] `check_id()` to check whether such customer id exists or not
 
 ## Initial data
-
+<a name="section-7"></a>
 uses `add_initial_data()` to add 5 cars, 5 customers, 5 employees. 
 
 1 Manager :
